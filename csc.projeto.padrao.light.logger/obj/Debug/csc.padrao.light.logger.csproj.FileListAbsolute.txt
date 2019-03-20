@@ -1,0 +1,7 @@
+C:\Projetos\WebApi\WebApiDBServer\csc.projeto.padrao.light.logger\bin\Debug\CSC.PROJETO.PADRAO.LIGHT.Logger.dll
+C:\Projetos\WebApi\WebApiDBServer\csc.projeto.padrao.light.logger\bin\Debug\CSC.PROJETO.PADRAO.LIGHT.Logger.pdb
+C:\Projetos\WebApi\WebApiDBServer\csc.projeto.padrao.light.logger\bin\Debug\log4net.dll
+C:\Projetos\WebApi\WebApiDBServer\csc.projeto.padrao.light.logger\bin\Debug\log4net.xml
+C:\Projetos\WebApi\WebApiDBServer\csc.projeto.padrao.light.logger\obj\Debug\CSC.PROJETO.PADRAO.LIGHT.Logger.dll
+C:\Projetos\WebApi\WebApiDBServer\csc.projeto.padrao.light.logger\obj\Debug\CSC.PROJETO.PADRAO.LIGHT.Logger.pdb
+C:\Projetos\WebApi\WebApiDBServer\csc.projeto.padrao.light.logger\obj\Debug\csc.padrao.light.logger.csprojResolveAssemblyReference.cache

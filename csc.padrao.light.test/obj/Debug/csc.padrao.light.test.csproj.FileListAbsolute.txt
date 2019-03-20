@@ -1,0 +1,11 @@
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\obj\Debug\csc.padrao.light.test.csprojResolveAssemblyReference.cache
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\csc.padrao.light.test.exe.config
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\csc.padrao.light.test.exe
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\csc.padrao.light.test.pdb
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\RestSharp.dll
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\bin\Debug\RestSharp.xml
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\obj\Debug\csc.padrao.light.test.exe
+C:\Projetos\WebApi\WebApiDBServer\csc.padrao.light.test\obj\Debug\csc.padrao.light.test.pdb
